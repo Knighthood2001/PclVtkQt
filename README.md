@@ -14,3 +14,22 @@ mkdir build && cd build
 cmake ..
 cmake --build . --config Release
 ```
+
+## 结果
+### pcl1.14
+
+![alt text](imgs/image.png)
+
+### Qt5+vtk9.3
+
+![alt text](imgs/image-1.png)
+
+### pcl1.14+vtk9.3+qt5.15.2
+
+
+![alt text](imgs/image-2.png)
+
+![alt text](imgs/image-3.png)
+
+# 最后
+快去试试环境对不对吧
